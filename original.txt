@@ -1,2 +1,2 @@
-This is the original file.
+This is the original file FEATURE 1.
 FEATURE 2.
