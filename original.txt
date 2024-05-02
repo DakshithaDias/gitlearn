@@ -1,2 +1,3 @@
 This is the original file FEATURE 1.
 FEATURE 2.
+added this line from fature1.
