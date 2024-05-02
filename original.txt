@@ -1,1 +1,2 @@
 This is the original file FEATURE 1.
+This is a new line from local pc.
