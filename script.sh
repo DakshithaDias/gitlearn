@@ -1,3 +1,4 @@
 #! /bin/bash
 echo "Starting the Bash Script"
-echo "This will stop AKS clusters"
+
+echo "This will start the AKS clusters"
